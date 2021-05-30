@@ -13,6 +13,7 @@
 		FA8E73B32662D7A000C68FAC /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FA8E73B12662D7A000C68FAC /* Main.storyboard */; };
 		FA8E73B52662D7A200C68FAC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FA8E73B42662D7A200C68FAC /* Assets.xcassets */; };
 		FA8E73B82662D7A200C68FAC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FA8E73B62662D7A200C68FAC /* LaunchScreen.storyboard */; };
+		FA8E73C12662D7CA00C68FAC /* SwiftySwitch.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA8E73C02662D7CA00C68FAC /* SwiftySwitch.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		FA8E73B42662D7A200C68FAC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FA8E73B72662D7A200C68FAC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		FA8E73B92662D7A200C68FAC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FA8E73C02662D7CA00C68FAC /* SwiftySwitch.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SwiftySwitch.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				FA8E73AD2662D7A000C68FAC /* SceneDelegate.swift */,
 				FA8E73AF2662D7A000C68FAC /* ViewController.swift */,
 				FA8E73B12662D7A000C68FAC /* Main.storyboard */,
+				FA8E73C02662D7CA00C68FAC /* SwiftySwitch.swift */,
 				FA8E73B42662D7A200C68FAC /* Assets.xcassets */,
 				FA8E73B62662D7A200C68FAC /* LaunchScreen.storyboard */,
 				FA8E73B92662D7A200C68FAC /* Info.plist */,
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				FA8E73B02662D7A000C68FAC /* ViewController.swift in Sources */,
+				FA8E73C12662D7CA00C68FAC /* SwiftySwitch.swift in Sources */,
 				FA8E73AC2662D7A000C68FAC /* AppDelegate.swift in Sources */,
 				FA8E73AE2662D7A000C68FAC /* SceneDelegate.swift in Sources */,
 			);
